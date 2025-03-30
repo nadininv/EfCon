@@ -10,7 +10,7 @@ A terminal-based Python utility to bulk convert `.ppt/.pptx` and `.docx` files i
 - 📝 Converts all Word (`.docx`) files in a folder to PDF  
 - 🔢 Automatically names output files as `1.pdf`, `2.pdf`, etc.  
 - 💡 Uses PowerPoint/Word COM interface via `pywin32`  
-- 🛡 Gracefully handles fallback methods and errors
+- 🛡 Handles fallback methods and errors
 
 ---
 
